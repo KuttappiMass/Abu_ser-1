@@ -79,9 +79,9 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart JOKERSER",
+            "RESTART_DESC": "Restart ᴀʙᴜ sᴇʀ",
             "RESTART_MSG": "*Helo Master* 🥰\n\n*I Am Restarting Please Wait It Will Take 5 Minuit*",
-            "SHUTDOWN_DESC": "Shutdown JOKERSER",
+            "SHUTDOWN_DESC": "Shutdown ᴀʙᴜ sᴇʀ",
             "SHUTDOWN_MSG": "*Ok Bye I Am Sleeping Now* 💤\n\n*Shuting Down* ⚠️",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
@@ -217,7 +217,7 @@
         "sticker": {
             "STICKER_DESC": "It 💝Aʙᴜ Sᴇʀ Cᴏɴᴠᴇʀᴛs your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "💝Aʙᴜ Sᴇʀ ᴅᴏᴡɴʟᴏᴅɪɴɢ": "```Wait Your Media 💝Aʙᴜ Sᴇʀ Cᴏɴᴠᴇʀᴛɪɴɢ To Sticker is JOKERSER💖```"
+            "💝Aʙᴜ Sᴇʀ ᴅᴏᴡɴʟᴏᴅɪɴɢ": "```Wait Your Media 💝Aʙᴜ Sᴇʀ Cᴏɴᴠᴇʀᴛɪɴɢ To Sticker 💖```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
