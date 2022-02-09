@@ -1,0 +1,5 @@
+build:
+  docker:
+      worker: /ABU/Dockerfile
+run:
+   worker: npm start
